@@ -1,0 +1,1 @@
+More infos & hardware docs at https://osoyoo.com/2019/09/17/osoyoo-2wd-robot-car-v2-0-starter-kit-tutorial-introduction/
